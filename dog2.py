@@ -1,2 +1,2 @@
-print ("Doggy")
-
+print ('Doggy')
+print ('Cat')
